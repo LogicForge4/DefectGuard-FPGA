@@ -1,0 +1,11 @@
+#requirements
+
+torch
+torchvision
+numpy
+Pillow
+opencv-python
+tqdm
+
+#then run this command(without #)
+#"pip install -r requirements.txt"

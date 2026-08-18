@@ -1,0 +1,9 @@
+{
+    "quantization": "INT8",
+    "weight_scheme": "per_output_channel_symmetric",
+    "bits": 8,
+    "quantized_conv_layers": 24,
+    "fp32_weight_bytes": 1775876,
+    "int8_weight_bytes": 442944,
+    "compression_ratio": 4.009256249096952
+}
